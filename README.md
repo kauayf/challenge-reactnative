@@ -1,7 +1,5 @@
 <h1>Desafio de React-Native Feito por RocketSeat 🚀</h1>
 
-<h1>Desafio de React-Native Feito por RocketSeat 🚀</h1>
-
 Funcionalidades da aplicação
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo src/App.js, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
 
