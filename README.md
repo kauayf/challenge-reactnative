@@ -17,7 +17,9 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
 - [Insomnia](https://insomnia.rest/products/insomnia)
+- [React-Native](https://reactnative.dev/)
 
 #### Clonando o projeto
 ```$ git clone https://github.com/kauayf/desafio-reactnative.git```
