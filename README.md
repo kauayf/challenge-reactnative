@@ -20,9 +20,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Insomnia](https://insomnia.rest/products/insomnia)
 
 #### Clonando o projeto
-```sh
-$ git clone https://github.com/kauayf/desafio-reactnative.git
-$ cd desafio-reactnative```
+```$ git clone https://github.com/kauayf/desafio-reactnative.git```
+```$ cd desafio-reactnative```
 
 #### Iniciando Testes
 ```sh
